@@ -11,7 +11,6 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OpenIdConnect;
 using Owin;
-using Swapcode.AlloyWeb.Business.Claims;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
