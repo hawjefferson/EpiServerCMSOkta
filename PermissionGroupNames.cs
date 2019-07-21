@@ -1,4 +1,4 @@
-﻿namespace Swapcode.AlloyWeb.Business.Claims
+namespace EpiserverSite1
 {
     /// <summary>
     /// Contains constants for security group names (or permissions that can be used as users roles).
